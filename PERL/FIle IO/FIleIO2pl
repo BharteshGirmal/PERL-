@@ -1,0 +1,14 @@
+#!/usr/bin/perl
+use strict;
+use warnings;
+
+open (FHR, "+>Sample.txt") or die "Cannot Open the File... or $!";
+
+print FHR "Name, Experience\n";
+while(<FHR>)
+{
+    print "$_";
+}
+
+close(FHR);
+

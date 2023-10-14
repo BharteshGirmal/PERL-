@@ -1,0 +1,11 @@
+com.W.tutorialspoint.C# 5.812345 AAA // =
+com.X.tutorialspoint.C++ 6.815345 BBB // =
+Lcom.U.tutorialspoint.python 4.876565 AAA //-
+com.W.tutorialspoint.java 3.5343 GGG // &
+com.X.tutorialspoint.c++ 8.4467 RRR // ^
+4com.Y.tutorialspoint.dns 2.65356 HHH // %
+gcom.Z.tutorialspoint.LDAP 1.7865 WWW // $
+hcom.A.tutorialspoint.SQL 9.8876 III // #
+gcom.B.tutorialspoint.redha 12.2674 KKK // @
+iom.C.tutorialspoint.nis 15.54368 UUU // !
+jcom.D.tutorialspoint.c# 51.3674 OOO // ~
