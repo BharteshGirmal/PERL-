@@ -6,10 +6,10 @@ use warnings;
 print "Sending Emails \n";
 
 
-my $to = 'sp922989.ttl@tatamotors.com';
-my $from = 'bg925781.ttl@tatamotors.com';
+my $to = 'bharteshgirmal@gmail.com';
+my $from = 'bharteshgirmal@gmail.com';
 my $subject = 'Sending Email from Perl Script';
-my $message = '<h1>Hello shaileshm do your work properly Regards Bhartesh</h1>';
+my $message = '<h1>Hello  Bhartesh</h1>';
 
 open(MAIL, "|/usr/sbin/sendmail -t");
 
